@@ -104,3 +104,9 @@ Klipper is distributed under the GNU GPL v3.
 The included Huada Semiconductor HC32F460 SDK files retain their original licensing and copyright notices, including the applicable BSD 3-Clause license.
 
 See the individual source files and `COPYING` for the applicable license terms.
+
+## 3D-Printed Sonic Pad Mount
+
+A custom remix of a Creality Sonic Pad mount adapted for the Anycubic Kobra 2.
+
+[View the model on Printables](https://www.printables.com/model/1836922-creality-sonic-pad-mount-for-anycubic-kobra-2)
